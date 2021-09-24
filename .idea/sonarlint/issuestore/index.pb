@@ -1,0 +1,6 @@
+
+;
+.prettierrc,2/0/20137a9e94744624390b6748bc96df5ca1579b71
+:
+
+index.html,f/6/f6013a00b362253c64368d6eebc50ea2131754e2
